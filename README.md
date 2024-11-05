@@ -12,8 +12,19 @@ Mendoza Amaro Brandon Gustavo GDS0641 1223100384
 # Link de la carpeta en drive donde se encuentran el examen realizado en clase:
 ## https://drive.google.com/drive/folders/1TXkFANG61XdQdX9TjBCyciaDyvkyGvra?usp=sharing
 
-# Link de la carpeta en drive donde se encuentran los avances de nuestro proyecto final:
+# Link de la carpeta en drive donde se encuentran los avances de nuestro proyecto final (Snow Man):
 ## https://drive.google.com/drive/folders/1-QQDo9v3UQGDVNm56z-dP7EUbb5SqKfb?usp=sharing
+
+# Evaluación a mi compañero: Morales Lezama Mirza Natzielly
+Trabajar con ello fue una experiencia algo nueva para mí. Habíamos trabajado en equipos antes, pero no como pareja.
+Ella es una gran estudiante, realmente me demostró en este trabajo el empeño que mostró hacia nuestro equipo.
+La facilidad de comunicación fue padre; al ser amigos, consideré que podría haber un problema si llegáramos a discutir,
+pero, por el contrario, esto ayudó en nuestra comunicación y aportación de ideas. Ambos escuchábamos las ideas del otro.
+Aunque soy una persona algo mandona, pudimos acoplarnos bien y dividirnos el trabajo de forma equitativa. Me agradó trabajar con ella.
+Claramente hay cosas que mejorar tanto de ella como mías, pero en general, el trabajo en equipo fue muy bueno.
+Quizás íbamos un poco más lento que los demás, pero no impidió poder sacar el trabajo adelante.
+
+## Calificacion: 9.5 / 10
 
 # Capturas de pantalla de los examenes de NetaCad:
 ## Modulo 1
@@ -30,4 +41,5 @@ Mendoza Amaro Brandon Gustavo GDS0641 1223100384
 
 ## Examen final
 <img src="https://github.com/user-attachments/assets/fae9f6a7-28ce-4646-b9b2-d035385f81a0"/>
+
 
