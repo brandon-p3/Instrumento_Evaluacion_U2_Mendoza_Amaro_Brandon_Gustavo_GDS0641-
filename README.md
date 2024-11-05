@@ -6,8 +6,14 @@ Principios de IOT Instrumento De Evaluacion Unidad 2 Mendoza Amaro Brandon Gusta
 ## Integrantes
 Mendoza Amaro Brandon Gustavo GDS0641 1223100384
 
-# Link de la carpeta en drive, donde se ecuentran los ejercicios, examen e instrumento:
+# Link de la carpeta en drive donde se encuentran los ejercicios:
 ## https://drive.google.com/drive/folders/1u_uwrjBOM5DqW7wcmvXXrRVoc091dhPA?usp=sharing
+
+# Link de la carpeta en drive donde se encuentran el examen realizado en clase:
+## https://drive.google.com/drive/folders/1TXkFANG61XdQdX9TjBCyciaDyvkyGvra?usp=sharing
+
+# Link de la carpeta en drive donde se encuentran los avances de nuestro proyecto final:
+## https://drive.google.com/drive/folders/1-QQDo9v3UQGDVNm56z-dP7EUbb5SqKfb?usp=sharing
 
 # Capturas de pantalla de los examenes de NetaCad:
 ## Modulo 1
